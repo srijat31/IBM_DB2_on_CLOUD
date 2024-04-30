@@ -1,0 +1,1253 @@
+WEBVTT
+
+01c36034-881f-4d30-8bdb-310264302819/14-0
+00:00:10.143 --> 00:00:11.653
+<v Naga Gayathiri Devi Kasturi>Hi, I'm gayatri.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/45-0
+00:00:11.703 --> 00:00:17.226
+<v Naga Gayathiri Devi Kasturi>And today we are going to talk
+about the IBM DB2 on cloud and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/45-1
+00:00:17.226 --> 00:00:21.413
+<v Naga Gayathiri Devi Kasturi>we are a team of four sheeja,
+Sunil and Purna.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/53-0
+00:00:21.843 --> 00:00:25.413
+<v Naga Gayathiri Devi Kasturi>Now let's see what is IBM DB2.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/56-0
+00:00:27.263 --> 00:00:27.813
+<v Naga Gayathiri Devi Kasturi>Mix.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/70-0
+00:00:27.853 --> 00:00:32.447
+<v Naga Gayathiri Devi Kasturi>Yeah, it is actually a fully
+managed public cloud, uh</v>
+
+01c36034-881f-4d30-8bdb-310264302819/70-1
+00:00:32.447 --> 00:00:33.213
+<v Naga Gayathiri Devi Kasturi>database.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/109-0
+00:00:33.433 --> 00:00:38.740
+<v Naga Gayathiri Devi Kasturi>It is a service offered by IBM
+and it also has a built-in</v>
+
+01c36034-881f-4d30-8bdb-310264302819/109-1
+00:00:38.740 --> 00:00:44.139
+<v Naga Gayathiri Devi Kasturi>engine which is 11.5 engine,
+which is easy to use and also</v>
+
+01c36034-881f-4d30-8bdb-310264302819/109-2
+00:00:44.139 --> 00:00:46.793
+<v Naga Gayathiri Devi Kasturi>accelerated query processing.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/167-0
+00:00:47.023 --> 00:00:52.165
+<v Naga Gayathiri Devi Kasturi>And next the service is actually
+suitable for wild wide range of</v>
+
+01c36034-881f-4d30-8bdb-310264302819/167-1
+00:00:52.165 --> 00:00:57.307
+<v Naga Gayathiri Devi Kasturi>applications from OLTP which is
+online transaction processing to</v>
+
+01c36034-881f-4d30-8bdb-310264302819/167-2
+00:00:57.307 --> 00:01:02.053
+<v Naga Gayathiri Devi Kasturi>data warehousing and it also
+provides a versatile solutions</v>
+
+01c36034-881f-4d30-8bdb-310264302819/167-3
+00:01:02.053 --> 00:01:07.195
+<v Naga Gayathiri Devi Kasturi>for critical data and supporting
+analytics and driving AI driven</v>
+
+01c36034-881f-4d30-8bdb-310264302819/167-4
+00:01:07.195 --> 00:01:10.913
+<v Naga Gayathiri Devi Kasturi>applications and few companies
+which use this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/174-0
+00:01:10.923 --> 00:01:13.283
+<v Naga Gayathiri Devi Kasturi>IBM DB2 cloud are AT&amp;T.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/180-0
+00:01:13.933 --> 00:01:16.343
+<v Naga Gayathiri Devi Kasturi>They are two and Walmart.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/223-0
+00:01:16.393 --> 00:01:21.852
+<v Naga Gayathiri Devi Kasturi>Uh, these are few companies and
+the main reason these companies</v>
+
+01c36034-881f-4d30-8bdb-310264302819/223-1
+00:01:21.852 --> 00:01:26.800
+<v Naga Gayathiri Devi Kasturi>use IBM DB2 is because of its
+key features, and those are</v>
+
+01c36034-881f-4d30-8bdb-310264302819/223-2
+00:01:26.800 --> 00:01:32.089
+<v Naga Gayathiri Devi Kasturi>expertly managed, highly secure
+and scalable and continuously</v>
+
+01c36034-881f-4d30-8bdb-310264302819/223-3
+00:01:32.089 --> 00:01:36.013
+<v Naga Gayathiri Devi Kasturi>available availability and
+disaster recovery.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/257-0
+00:01:37.503 --> 00:01:42.110
+<v Naga Gayathiri Devi Kasturi>One engine for oral workloads,
+deploy and current connect</v>
+
+01c36034-881f-4d30-8bdb-310264302819/257-1
+00:01:42.110 --> 00:01:46.956
+<v Naga Gayathiri Devi Kasturi>across hybrid cloud ingest,
+store and query all type of data</v>
+
+01c36034-881f-4d30-8bdb-310264302819/257-2
+00:01:46.956 --> 00:01:50.213
+<v Naga Gayathiri Devi Kasturi>and data driven governance and
+security.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/264-0
+00:01:50.503 --> 00:01:54.113
+<v Naga Gayathiri Devi Kasturi>These are some of the key
+features so.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/273-0
+00:01:55.373 --> 00:01:58.683
+<v Naga Gayathiri Devi Kasturi>Uh, all because of these key
+features?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/282-0
+00:01:59.343 --> 00:02:01.543
+<v Naga Gayathiri Devi Kasturi>Many companies use IBM DB2.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/295-0
+00:02:02.153 --> 00:02:06.833
+<v Naga Gayathiri Devi Kasturi>Now let's see how the interface
+looks srija you can go ahead.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/299-0
+00:02:09.083 --> 00:02:09.593
+<v Srija Thota>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/329-0
+00:02:09.603 --> 00:02:15.176
+<v Srija Thota>So there are many ways to
+connect to IBM DB2 like by using</v>
+
+01c36034-881f-4d30-8bdb-310264302819/329-1
+00:02:15.176 --> 00:02:19.993
+<v Srija Thota>JDBC or ODBC connection or maybe
+with .net or PHP.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/343-0
+00:02:20.203 --> 00:02:26.333
+<v Srija Thota>But for our project we have used
+IBM DB2 on cloud user interface.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/361-0
+00:02:26.483 --> 00:02:31.021
+<v Srija Thota>So there is no installation is
+required for this, so it's just</v>
+
+01c36034-881f-4d30-8bdb-310264302819/361-1
+00:02:31.021 --> 00:02:31.813
+<v Srija Thota>a web page.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/379-0
+00:02:32.743 --> 00:02:37.785
+<v Srija Thota>When you, when you go into the
+web page, the page will be looks</v>
+
+01c36034-881f-4d30-8bdb-310264302819/379-1
+00:02:37.785 --> 00:02:38.573
+<v Srija Thota>like this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/417-0
+00:02:38.743 --> 00:02:44.153
+<v Srija Thota>So here for our project they
+have created this resource DB29K</v>
+
+01c36034-881f-4d30-8bdb-310264302819/417-1
+00:02:44.153 --> 00:02:49.128
+<v Srija Thota>uh next if you click on the go
+to user interface it will</v>
+
+01c36034-881f-4d30-8bdb-310264302819/417-2
+00:02:49.128 --> 00:02:52.793
+<v Srija Thota>redirect to a page which looks
+like this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/443-0
+00:02:52.963 --> 00:02:57.396
+<v Srija Thota>So in the left panel we can see
+Dashboard run is SQL data</v>
+
+01c36034-881f-4d30-8bdb-310264302819/443-1
+00:02:57.396 --> 00:03:01.753
+<v Srija Thota>administration and there are a
+few other things as well.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/470-0
+00:03:01.923 --> 00:03:05.831
+<v Srija Thota>So in the dashboard you can see
+the progress like how much data</v>
+
+01c36034-881f-4d30-8bdb-310264302819/470-1
+00:03:05.831 --> 00:03:09.189
+<v Srija Thota>you have used or how much
+storage it has been used per</v>
+
+01c36034-881f-4d30-8bdb-310264302819/470-2
+00:03:09.189 --> 00:03:09.433
+<v Srija Thota>day.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/520-0
+00:03:09.863 --> 00:03:15.062
+<v Srija Thota>So like that you can see the
+dashboard and in run SQL we can</v>
+
+01c36034-881f-4d30-8bdb-310264302819/520-1
+00:03:15.062 --> 00:03:20.090
+<v Srija Thota>write the code and we can
+execute the code and you know uh</v>
+
+01c36034-881f-4d30-8bdb-310264302819/520-2
+00:03:20.090 --> 00:03:25.459
+<v Srija Thota>and and at the right side you
+can see a a thing that is syntax</v>
+
+01c36034-881f-4d30-8bdb-310264302819/520-3
+00:03:25.459 --> 00:03:26.993
+<v Srija Thota>assistance, right.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/541-0
+00:03:27.193 --> 00:03:31.725
+<v Srija Thota>So if you click on, if you
+activate this, it will populate</v>
+
+01c36034-881f-4d30-8bdb-310264302819/541-1
+00:03:31.725 --> 00:03:34.413
+<v Srija Thota>the errors while doing the
+coding.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/582-0
+00:03:34.483 --> 00:03:40.941
+<v Srija Thota>If there are any errors, it will
+highlight and and then in the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/582-1
+00:03:40.941 --> 00:03:47.092
+<v Srija Thota>next that uh data where we can
+load the data like by uh CSV</v>
+
+01c36034-881f-4d30-8bdb-310264302819/582-2
+00:03:47.092 --> 00:03:50.783
+<v Srija Thota>files or maybe using S Excel
+files.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/613-0
+00:03:50.793 --> 00:03:54.986
+<v Srija Thota>You can load the data so
+administration column will have</v>
+
+01c36034-881f-4d30-8bdb-310264302819/613-1
+00:03:54.986 --> 00:03:59.032
+<v Srija Thota>the details about the
+administration things and in the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/613-2
+00:03:59.032 --> 00:04:03.813
+<v Srija Thota>downside you can see about apps,
+APIs and documentation support.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/645-0
+00:04:03.973 --> 00:04:09.152
+<v Srija Thota>So if you stuck anywhere in
+while doing the coding, you can</v>
+
+01c36034-881f-4d30-8bdb-310264302819/645-1
+00:04:09.152 --> 00:04:13.813
+<v Srija Thota>go and read the documentation
+and then do the coding.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/651-0
+00:04:14.693 --> 00:04:15.393
+<v Srija Thota>UM.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/658-0
+00:04:16.313 --> 00:04:22.133
+<v Srija Thota>And then, uh, by loading the
+data will be explained by potna.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/663-0
+00:04:29.293 --> 00:04:29.723
+<v Poorna Chand Addala>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/675-0
+00:04:29.733 --> 00:04:33.243
+<v Poorna Chand Addala>So this is the SQL pane where
+you can write your SQL code.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/691-0
+00:04:33.833 --> 00:04:38.123
+<v Poorna Chand Addala>So firstly on my left hand side
+I can see all the data objects.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/730-0
+00:04:38.413 --> 00:04:44.533
+<v Poorna Chand Addala>So fly 18393 is the default
+schema provided by IBM DB2 Light</v>
+
+01c36034-881f-4d30-8bdb-310264302819/730-1
+00:04:44.533 --> 00:04:50.353
+<v Poorna Chand Addala>Edition and we will not be
+allowed to create new schemas.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/761-0
+00:04:50.363 --> 00:04:54.428
+<v Poorna Chand Addala>So we need to use the existing
+default schema and we can see if</v>
+
+01c36034-881f-4d30-8bdb-310264302819/761-1
+00:04:54.428 --> 00:04:58.113
+<v Poorna Chand Addala>you have created any tables or
+any views or other things.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/775-0
+00:04:58.463 --> 00:05:02.863
+<v Poorna Chand Addala>Those data objects will appear
+on to the left side of this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/785-0
+00:05:03.343 --> 00:05:06.583
+<v Poorna Chand Addala>So firstly, let's create a users
+table.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/836-0
+00:05:08.483 --> 00:05:13.098
+<v Poorna Chand Addala>So once I select uh, the sequel
+query, I can click on run</v>
+
+01c36034-881f-4d30-8bdb-310264302819/836-1
+00:05:13.098 --> 00:05:17.951
+<v Poorna Chand Addala>selected and that SQL would run
+and if it is successful then</v>
+
+01c36034-881f-4d30-8bdb-310264302819/836-2
+00:05:17.951 --> 00:05:22.884
+<v Poorna Chand Addala>you'll get a success, if not
+you'll get an error message that</v>
+
+01c36034-881f-4d30-8bdb-310264302819/836-3
+00:05:22.884 --> 00:05:24.953
+<v Poorna Chand Addala>shows something like this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/859-0
+00:05:27.233 --> 00:05:30.704
+<v Poorna Chand Addala>OK, because I have already, I
+already have an object called</v>
+
+01c36034-881f-4d30-8bdb-310264302819/859-1
+00:05:30.704 --> 00:05:32.903
+<v Poorna Chand Addala>users so I'm not able to create
+that.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/875-0
+00:05:33.073 --> 00:05:36.636
+<v Poorna Chand Addala>So we'll do one thing, we'll
+drop the users and then we'll</v>
+
+01c36034-881f-4d30-8bdb-310264302819/875-1
+00:05:36.636 --> 00:05:37.663
+<v Poorna Chand Addala>create them back.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/904-0
+00:05:38.373 --> 00:05:44.113
+<v Poorna Chand Addala>So we can write a comment called
+Rock Drop Table users so you can</v>
+
+01c36034-881f-4d30-8bdb-310264302819/904-1
+00:05:44.113 --> 00:05:49.245
+<v Poorna Chand Addala>see that, uh, the syntax is
+automatically completed by IBM</v>
+
+01c36034-881f-4d30-8bdb-310264302819/904-2
+00:05:49.245 --> 00:05:49.593
+<v Poorna Chand Addala>DB2.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/928-0
+00:05:49.923 --> 00:05:54.670
+<v Poorna Chand Addala>So I can run a command called
+drop users so I have dropped the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/928-1
+00:05:54.670 --> 00:05:58.363
+<v Poorna Chand Addala>users table and I will also drop
+the card table.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/942-0
+00:06:10.043 --> 00:06:12.413
+<v Poorna Chand Addala>So I've dropped both of our
+entities.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/949-0
+00:06:12.743 --> 00:06:14.573
+<v Poorna Chand Addala>Now I'm going to recreate them.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/955-0
+00:06:14.763 --> 00:06:16.653
+<v Poorna Chand Addala>So first is the users table.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/981-0
+00:06:20.073 --> 00:06:24.010
+<v Poorna Chand Addala>So I have created the users
+table so the status shows one</v>
+
+01c36034-881f-4d30-8bdb-310264302819/981-1
+00:06:24.010 --> 00:06:25.843
+<v Poorna Chand Addala>that means it is a success.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1003-0
+00:06:26.163 --> 00:06:30.620
+<v Poorna Chand Addala>So I can look at the full status
+here where it shows what is the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1003-1
+00:06:30.620 --> 00:06:33.363
+<v Poorna Chand Addala>runtime and what are the rows
+affected.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1015-0
+00:06:33.373 --> 00:06:35.353
+<v Poorna Chand Addala>What is the full query body and
+so on.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1035-0
+00:06:36.033 --> 00:06:39.907
+<v Poorna Chand Addala>So once you have created this
+users entity, let's now load</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1035-1
+00:06:39.907 --> 00:06:41.943
+<v Poorna Chand Addala>data into this users in entity.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1060-0
+00:06:42.293 --> 00:06:47.710
+<v Poorna Chand Addala>So on the left hand side, let's
+go into data and then let's</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1060-1
+00:06:47.710 --> 00:06:51.863
+<v Poorna Chand Addala>select from where do I want to
+load the data.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1069-0
+00:06:52.053 --> 00:06:53.603
+<v Poorna Chand Addala>So I have few options here.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1094-0
+00:06:53.663 --> 00:06:57.164
+<v Poorna Chand Addala>I can load it from my computer
+or I can load it from Amazon S3</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1094-1
+00:06:57.164 --> 00:06:59.443
+<v Poorna Chand Addala>or I can load it from IBM cloud
+storage.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1106-0
+00:06:59.673 --> 00:07:03.763
+<v Poorna Chand Addala>So for now, let me load it from
+my local environment.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1131-0
+00:07:04.093 --> 00:07:08.460
+<v Poorna Chand Addala>So I'm going to browse the file
+that is users and I'm going to</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1131-1
+00:07:08.460 --> 00:07:11.233
+<v Poorna Chand Addala>upload it and then I can click
+on next.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1178-0
+00:07:12.553 --> 00:07:16.682
+<v Poorna Chand Addala>So here it asks you to choose
+the schema and choose the table</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1178-1
+00:07:16.682 --> 00:07:20.612
+<v Poorna Chand Addala>into which you want to load your
+data and it gives you two</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1178-2
+00:07:20.612 --> 00:07:24.542
+<v Poorna Chand Addala>options whether you want to
+append new data or do you want</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1178-3
+00:07:24.542 --> 00:07:27.073
+<v Poorna Chand Addala>to overwrite the table with new
+data.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1200-0
+00:07:27.443 --> 00:07:31.716
+<v Poorna Chand Addala>So if you are doing multiple
+loads incremental loads then you</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1200-1
+00:07:31.716 --> 00:07:34.473
+<v Poorna Chand Addala>can go for option like append
+new data.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1232-0
+00:07:35.063 --> 00:07:38.844
+<v Poorna Chand Addala>I'm just doing batch loading so
+I'm just going to press on</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1232-1
+00:07:38.844 --> 00:07:42.754
+<v Poorna Chand Addala>overwrite table with new data so
+and you can see what is the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1232-2
+00:07:42.754 --> 00:07:43.523
+<v Poorna Chand Addala>column name.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1248-0
+00:07:43.533 --> 00:07:46.233
+<v Poorna Chand Addala>What is the data type and if it
+is nullable or not?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1275-0
+00:07:46.683 --> 00:07:51.836
+<v Poorna Chand Addala>And then you can click on next
+and here you can see things like</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1275-1
+00:07:51.836 --> 00:07:56.023
+<v Poorna Chand Addala>the data, the columns and their
+data types as well.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1283-0
+00:07:56.233 --> 00:07:59.773
+<v Poorna Chand Addala>And you have option to select
+character encoding.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1324-0
+00:07:59.913 --> 00:08:04.276
+<v Poorna Chand Addala>What is the separator if header
+is in the first row and if you</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1324-1
+00:08:04.276 --> 00:08:08.500
+<v Poorna Chand Addala>have some custom time or date
+format then you can give those</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1324-2
+00:08:08.500 --> 00:08:12.863
+<v Poorna Chand Addala>date format or time format or
+type timestamp format over here.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1384-0
+00:08:13.863 --> 00:08:18.002
+<v Poorna Chand Addala>So because I don't have any date
+column in this table, I'm just</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1384-1
+00:08:18.002 --> 00:08:21.819
+<v Poorna Chand Addala>going to, I'm just going to
+click on next and then finally</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1384-2
+00:08:21.819 --> 00:08:25.699
+<v Poorna Chand Addala>this is the review settings page
+where it shows you all the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1384-3
+00:08:25.699 --> 00:08:29.451
+<v Poorna Chand Addala>details along with an option
+called the maximum number of</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1384-4
+00:08:29.451 --> 00:08:33.073
+<v Poorna Chand Addala>warnings before, after which it
+stops loading the data.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1401-0
+00:08:33.203 --> 00:08:37.913
+<v Poorna Chand Addala>So here I've kept it as thousand
+and then I can begin the load.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1431-0
+00:08:38.663 --> 00:08:43.239
+<v Poorna Chand Addala>So once I begin the load, it
+loads my data from my local</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1431-1
+00:08:43.239 --> 00:08:48.377
+<v Poorna Chand Addala>environment to the staging table
+and then from staging table to</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1431-2
+00:08:48.377 --> 00:08:50.143
+<v Poorna Chand Addala>the final user stable.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1468-0
+00:08:50.413 --> 00:08:53.869
+<v Poorna Chand Addala>So once the loading has been
+completed, you can see a this</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1468-1
+00:08:53.869 --> 00:08:57.441
+<v Poorna Chand Addala>that 2000 rows have been read
+and 2000 rows have been loaded</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1468-2
+00:08:57.441 --> 00:08:59.843
+<v Poorna Chand Addala>and none of the rows have been
+rejected.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1491-0
+00:09:00.313 --> 00:09:03.477
+<v Poorna Chand Addala>And if you have some errors or
+warnings, those will be</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1491-1
+00:09:03.477 --> 00:09:06.583
+<v Poorna Chand Addala>appearing over here because we
+don't have any errors.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1499-0
+00:09:06.593 --> 00:09:08.583
+<v Poorna Chand Addala>So we are good to go.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1508-0
+00:09:08.733 --> 00:09:12.733
+<v Poorna Chand Addala>Next, we can go to the SQL where
+I'm just creating.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1534-0
+00:09:14.873 --> 00:09:20.026
+<v Poorna Chand Addala>Other another table called users
+new new and I have given a</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1534-1
+00:09:20.026 --> 00:09:24.493
+<v Poorna Chand Addala>primary key as user ID which is
+an auto generating.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1584-0
+00:09:25.863 --> 00:09:30.867
+<v Poorna Chand Addala>I column and then I'm inserting
+the data from users to users new</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1584-1
+00:09:30.867 --> 00:09:34.794
+<v Poorna Chand Addala>and I'm doing a bunch of
+operations where I'm just</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1584-2
+00:09:34.794 --> 00:09:39.567
+<v Poorna Chand Addala>dropping the old table called
+users and I'm changing the name</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1584-3
+00:09:39.567 --> 00:09:41.723
+<v Poorna Chand Addala>of users new table to users.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1603-0
+00:09:42.113 --> 00:09:46.065
+<v Poorna Chand Addala>So as I run all these comments
+you can see that status of all</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1603-1
+00:09:46.065 --> 00:09:47.723
+<v Poorna Chand Addala>the comments is a success.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1616-0
+00:09:48.103 --> 00:09:51.373
+<v Poorna Chand Addala>Now let me just check if I have
+data in my users entity.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1675-0
+00:09:53.393 --> 00:09:57.125
+<v Poorna Chand Addala>So on site on the select command
+I can see the status as one, so</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1675-1
+00:09:57.125 --> 00:10:00.627
+<v Poorna Chand Addala>I can go into select all from
+users and you can see that the</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1675-2
+00:10:00.627 --> 00:10:04.072
+<v Poorna Chand Addala>data has been loaded into my
+table successfully and you can</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1675-3
+00:10:04.072 --> 00:10:07.173
+<v Poorna Chand Addala>also see what are the uh records
+that are there here.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1691-0
+00:10:08.523 --> 00:10:12.523
+<v Poorna Chand Addala>And next let let me create my
+other entity which is cards.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1699-0
+00:10:13.423 --> 00:10:16.093
+<v Poorna Chand Addala>Again, let me run the create
+statement for cards.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1705-0
+00:10:18.323 --> 00:10:20.263
+<v Poorna Chand Addala>And the cards?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1712-0
+00:10:20.403 --> 00:10:22.433
+<v Poorna Chand Addala>Uh table has been created.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1724-0
+00:10:22.643 --> 00:10:25.323
+<v Poorna Chand Addala>Now let me load data into this
+card stable as well.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1744-0
+00:10:31.013 --> 00:10:35.541
+<v Poorna Chand Addala>Again, I'm following the same
+steps, just getting the data</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1744-1
+00:10:35.541 --> 00:10:37.153
+<v Poorna Chand Addala>from my local system.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-0
+00:10:39.153 --> 00:10:43.697
+<v Poorna Chand Addala>Selecting the schema, selecting
+the table and if I want to</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-1
+00:10:43.697 --> 00:10:48.395
+<v Poorna Chand Addala>append new data or overwrite
+table with the new data, I want</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-2
+00:10:48.395 --> 00:10:53.324
+<v Poorna Chand Addala>to overwrite table with new data
+and then you can see the data,</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-3
+00:10:53.324 --> 00:10:58.330
+<v Poorna Chand Addala>the columns and the data type of
+each and everything here if you</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-4
+00:10:58.330 --> 00:11:03.028
+<v Poorna Chand Addala>notice that we have an date
+column which is month slash year</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1820-5
+00:11:03.028 --> 00:11:05.493
+<v Poorna Chand Addala>so this is a custom date format.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1842-0
+00:11:05.503 --> 00:11:09.718
+<v Poorna Chand Addala>So at this point of time, we
+need to change the default date</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1842-1
+00:11:09.718 --> 00:11:13.243
+<v Poorna Chand Addala>format whatever is specified
+here with month year.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1855-0
+00:11:16.013 --> 00:11:18.973
+<v Poorna Chand Addala>And then you don't have any time
+format.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1867-0
+00:11:18.983 --> 00:11:21.623
+<v Poorna Chand Addala>We don't have any time stamps,
+so we are good to go.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1881-0
+00:11:21.873 --> 00:11:26.293
+<v Poorna Chand Addala>We can click on next and we can
+just review our settings and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1881-1
+00:11:26.293 --> 00:11:27.743
+<v Poorna Chand Addala>again begin loading.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1895-0
+00:11:34.593 --> 00:11:37.883
+<v Poorna Chand Addala>So we can see that all the rows
+have been loaded successfully.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1903-0
+00:11:38.133 --> 00:11:40.483
+<v Poorna Chand Addala>There are no rows that got
+rejected.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1934-0
+00:11:40.913 --> 00:11:45.321
+<v Poorna Chand Addala>There are no errors and there
+are no warnings as well, so</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1934-1
+00:11:45.321 --> 00:11:49.881
+<v Poorna Chand Addala>let's go back to our SQL window
+and here I'm just doing few</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1934-2
+00:11:49.881 --> 00:11:51.553
+<v Poorna Chand Addala>operations where I am.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1986-0
+00:11:53.153 --> 00:11:57.066
+<v Poorna Chand Addala>Relating the users and card
+stable with a foreign key and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1986-1
+00:11:57.066 --> 00:12:01.046
+<v Poorna Chand Addala>finally I am doing a select
+statement on my cards table to</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1986-2
+00:12:01.046 --> 00:12:04.959
+<v Poorna Chand Addala>see if I have the data in my
+card state so I can see that</v>
+
+01c36034-881f-4d30-8bdb-310264302819/1986-3
+00:12:04.959 --> 00:12:07.523
+<v Poorna Chand Addala>there is data in card stable as
+well.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2000-0
+00:12:09.493 --> 00:12:13.403
+<v Poorna Chand Addala>So now we'll perform a bunch of
+CRUD operations here.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2039-0
+00:12:15.113 --> 00:12:20.877
+<v Poorna Chand Addala>So we have a use case like uh,
+we have a fintech product called</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2039-1
+00:12:20.877 --> 00:12:26.370
+<v Poorna Chand Addala>card flow and it is used as a
+card management system for our</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2039-2
+00:12:26.370 --> 00:12:30.603
+<v Poorna Chand Addala>users and they can manage their
+cards in this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2060-0
+00:12:30.753 --> 00:12:35.422
+<v Poorna Chand Addala>So let us take a fictional user,
+Sara, who is onboarding into</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2060-1
+00:12:35.422 --> 00:12:36.703
+<v Poorna Chand Addala>this card system.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2067-0
+00:12:36.873 --> 00:12:39.743
+<v Poorna Chand Addala>So once she onboards into this.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2079-0
+00:12:41.433 --> 00:12:46.493
+<v Poorna Chand Addala>Card flow product she has to
+give all her details.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2082-0
+00:12:46.503 --> 00:12:47.523
+<v Poorna Chand Addala>Like what?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2101-0
+00:12:47.693 --> 00:12:51.560
+<v Poorna Chand Addala>All her card numbers and all her
+personal details like name, date</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2101-1
+00:12:51.560 --> 00:12:52.673
+<v Poorna Chand Addala>of birth and so on.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2118-0
+00:12:52.903 --> 00:12:56.824
+<v Poorna Chand Addala>So when she gives all those
+details first operation which we</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2118-1
+00:12:56.824 --> 00:12:57.853
+<v Poorna Chand Addala>do is an insert.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2142-0
+00:12:57.983 --> 00:13:02.731
+<v Poorna Chand Addala>So we insert all the details of
+the user into user table and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2142-1
+00:13:02.731 --> 00:13:07.323
+<v Poorna Chand Addala>then we insert all the card
+details into this card stable.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2151-0
+00:13:07.403 --> 00:13:11.123
+<v Poorna Chand Addala>So this is the create operation
+which works.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2185-0
+00:13:11.333 --> 00:13:14.063
+<v Poorna Chand Addala>So let me run these create.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2189-0
+00:13:14.533 --> 00:13:19.057
+<v Poorna Chand Addala>Let me run this insert statement
+so you can see that this new</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2189-1
+00:13:19.057 --> 00:13:23.363
+<v Poorna Chand Addala>user has been onboarded into our
+product called card flow.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2208-0
+00:13:23.673 --> 00:13:28.452
+<v Poorna Chand Addala>Next, if he wants to do a read
+operation like she wants to know</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2208-1
+00:13:28.452 --> 00:13:29.423
+<v Poorna Chand Addala>what are her?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2210-0
+00:13:29.433 --> 00:13:30.913
+<v Poorna Chand Addala>Like what?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2219-0
+00:13:31.053 --> 00:13:32.853
+<v Poorna Chand Addala>How much did he did she spend?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2229-0
+00:13:33.633 --> 00:13:36.333
+<v Poorna Chand Addala>What are her transactions that
+have happened?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2235-0
+00:13:36.463 --> 00:13:38.253
+<v Poorna Chand Addala>Then she can do a read
+operation.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2267-0
+00:13:38.363 --> 00:13:42.730
+<v Poorna Chand Addala>So we have done a read operation
+here where we have joined cards</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2267-1
+00:13:42.730 --> 00:13:46.896
+<v Poorna Chand Addala>and users table on user ID and
+user and we have also selected</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2267-2
+00:13:46.896 --> 00:13:48.173
+<v Poorna Chand Addala>the person as Sara.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2274-0
+00:13:48.733 --> 00:13:50.643
+<v Poorna Chand Addala>So if we run this statement.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2306-0
+00:13:53.803 --> 00:13:57.884
+<v Poorna Chand Addala>You can see that you get all the
+details of Sarah, all her</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2306-1
+00:13:57.884 --> 00:14:01.688
+<v Poorna Chand Addala>personal details, as well as all
+the details about her</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2306-2
+00:14:01.688 --> 00:14:03.763
+<v Poorna Chand Addala>transactions and card details.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2323-0
+00:14:04.693 --> 00:14:09.846
+<v Poorna Chand Addala>Next, if she decides to upgrade
+her credit limit, then we might</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2323-1
+00:14:09.846 --> 00:14:12.423
+<v Poorna Chand Addala>have to run an update statement.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2341-0
+00:14:12.433 --> 00:14:14.755
+<v Poorna Chand Addala>So we are running an update
+statement here where we are</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2341-1
+00:14:14.755 --> 00:14:15.543
+<v Poorna Chand Addala>updating the cards.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2371-0
+00:14:15.553 --> 00:14:20.592
+<v Poorna Chand Addala>We are setting the credit limit
+to whatever amount where user is</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2371-1
+00:14:20.592 --> 00:14:24.003
+<v Poorna Chand Addala>identified by the user ID which
+is 201 for.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2386-0
+00:14:24.523 --> 00:14:30.073
+<v Poorna Chand Addala>So if we run this statement, we
+are updating her transactions.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2412-0
+00:14:30.293 --> 00:14:35.562
+<v Poorna Chand Addala>Finally, if she wants to leave
+the card management system, she</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2412-1
+00:14:35.562 --> 00:14:40.163
+<v Poorna Chand Addala>wants to go out of the she wants
+to close her account.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2428-0
+00:14:40.173 --> 00:14:46.075
+<v Poorna Chand Addala>Then we run a delete statement
+where we delete her user from</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2428-1
+00:14:46.075 --> 00:14:47.043
+<v Poorna Chand Addala>the cards.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2439-0
+00:14:47.333 --> 00:14:49.903
+<v Poorna Chand Addala>So if we do this, it will get
+deleted.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2462-0
+00:14:50.233 --> 00:14:54.726
+<v Poorna Chand Addala>So these are various CRUD
+operations that we can perform</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2462-1
+00:14:54.726 --> 00:14:58.983
+<v Poorna Chand Addala>on IBM DB2 on our fictional
+product called Card Flow.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2475-0
+00:14:59.773 --> 00:15:02.321
+<v Poorna Chand Addala>Next, there are business
+questions which are which is</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2475-1
+00:15:02.321 --> 00:15:03.123
+<v Poorna Chand Addala>handled by Sunil.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2530-0
+00:15:05.683 --> 00:15:09.633
+<v Sai Sunil Gangupamu>So let's now look at some few of
+the business question like like</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2530-1
+00:15:09.633 --> 00:15:12.976
+<v Sai Sunil Gangupamu>if the first one is like we
+decided what's the average</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2530-2
+00:15:12.976 --> 00:15:16.866
+<v Sai Sunil Gangupamu>number was the average like per
+gender like what's their credit</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2530-3
+00:15:16.866 --> 00:15:20.513
+<v Sai Sunil Gangupamu>card limit not not the the
+number of credit cards they own.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2568-0
+00:15:20.763 --> 00:15:24.843
+<v Sai Sunil Gangupamu>So we then decided, OK, let's go
+with this question and we</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2568-1
+00:15:24.843 --> 00:15:29.062
+<v Sai Sunil Gangupamu>decided to go and now we can see
+that if we run the Code SQL</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2568-2
+00:15:29.062 --> 00:15:32.313
+<v Sai Sunil Gangupamu>code, the SQL query now we get
+the output has.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2574-0
+00:15:34.763 --> 00:15:35.133
+<v Sai Sunil Gangupamu>Three.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2592-0
+00:15:35.203 --> 00:15:38.292
+<v Sai Sunil Gangupamu>So yeah, the the male and the
+female have an average credit</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2592-1
+00:15:38.292 --> 00:15:39.013
+<v Sai Sunil Gangupamu>cards for you.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2642-0
+00:15:39.023 --> 00:15:43.049
+<v Sai Sunil Gangupamu>So now if you look at this
+second question like like what's</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2642-1
+00:15:43.049 --> 00:15:47.143
+<v Sai Sunil Gangupamu>the average grade cuts per user
+and what's his limit and and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2642-2
+00:15:47.143 --> 00:15:51.102
+<v Sai Sunil Gangupamu>what it's like to compare it
+with the per capita income of</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2642-3
+00:15:51.102 --> 00:15:51.773
+<v Sai Sunil Gangupamu>that user.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2659-0
+00:15:52.243 --> 00:15:55.496
+<v Sai Sunil Gangupamu>Now if we run that SQL query
+then you know we would be</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2659-1
+00:15:55.496 --> 00:15:57.743
+<v Sai Sunil Gangupamu>getting some words somewhere
+between.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2662-0
+00:16:01.573 --> 00:16:01.803
+<v Sai Sunil Gangupamu>OK.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2664-0
+00:16:01.813 --> 00:16:02.243
+<v Sai Sunil Gangupamu>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2696-0
+00:16:02.293 --> 00:16:07.377
+<v Sai Sunil Gangupamu>So the average credit card limit
+per card is, you know, 1830 and</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2696-1
+00:16:07.377 --> 00:16:09.723
+<v Sai Sunil Gangupamu>this in the city of Abbeville.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2711-0
+00:16:09.993 --> 00:16:16.503
+<v Sai Sunil Gangupamu>And the per capita income of
+that city is around $1700.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2719-0
+00:16:16.593 --> 00:16:18.943
+<v Sai Sunil Gangupamu>So yeah, it's almost kind of
+similar.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2735-0
+00:16:19.393 --> 00:16:22.321
+<v Sai Sunil Gangupamu>So yeah, these are two business
+questions that we were worked</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2735-1
+00:16:22.321 --> 00:16:22.463
+<v Sai Sunil Gangupamu>on.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2761-0
+00:16:22.473 --> 00:16:26.468
+<v Sai Sunil Gangupamu>And and this is the my team had
+explained about the introduction</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2761-1
+00:16:26.468 --> 00:16:30.401
+<v Sai Sunil Gangupamu>and the user interface and the
+great operation and the business</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2761-2
+00:16:30.401 --> 00:16:30.893
+<v Sai Sunil Gangupamu>queries.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2764-0
+00:16:34.483 --> 00:16:34.683
+<v Sai Sunil Gangupamu>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2776-0
+00:16:35.983 --> 00:16:39.313
+<v Sai Sunil Gangupamu>So anyone wants to add something
+about it?</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2784-0
+00:16:45.813 --> 00:16:46.403
+<v Naga Gayathiri Devi Kasturi>We are good.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2789-0
+00:16:46.413 --> 00:16:47.343
+<v Naga Gayathiri Devi Kasturi>We are good, sunny.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2795-0
+00:16:47.543 --> 00:16:47.973
+<v Naga Gayathiri Devi Kasturi>Thank you.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2801-0
+00:16:49.523 --> 00:16:51.543
+<v Sai Sunil Gangupamu>I think he left it off.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2804-0
+00:16:56.833 --> 00:16:57.233
+<v Sai Sunil Gangupamu>Umm.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2812-0
+00:17:01.033 --> 00:17:02.783
+<v Naga Gayathiri Devi Kasturi>We can stop the recording eyes.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2820-0
+00:17:04.733 --> 00:17:07.303
+<v Sai Sunil Gangupamu>For now, I think Purna excited.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2826-0
+00:17:07.753 --> 00:17:08.373
+<v Sai Sunil Gangupamu>I'm not sure why.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2825-0
+00:17:07.923 --> 00:17:08.183
+<v Naga Gayathiri Devi Kasturi>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2835-0
+00:17:19.353 --> 00:17:20.253
+<v Naga Gayathiri Devi Kasturi>Have to stop that.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2848-0
+00:17:22.373 --> 00:17:25.333
+<v Sai Sunil Gangupamu>I think it's OK, just went.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2845-0
+00:17:24.553 --> 00:17:24.733
+<v Naga Gayathiri Devi Kasturi>Yeah.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2849-0
+00:17:26.513 --> 00:17:27.093
+<v Srija Thota>I paint.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2866-0
+00:17:29.073 --> 00:17:31.683
+<v Sai Sunil Gangupamu>So done, I think it's still
+recording I guess.</v>
+
+01c36034-881f-4d30-8bdb-310264302819/2867-0
+00:17:32.013 --> 00:17:32.933
+<v Naga Gayathiri Devi Kasturi>It's still recording.</v>
